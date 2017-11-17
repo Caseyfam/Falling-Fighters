@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirConsole Rewrite.CSharp.Plugins", "AirConsole Rewrite.CSharp.Plugins.csproj", "{B6FDC13A-5B85-BF57-113A-A7E30D6FA8DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirConsole Rewrite.CSharp", "AirConsole Rewrite.CSharp.csproj", "{FC7E0ED9-457A-A003-573D-4AE6875E73BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AirConsole Rewrite.CSharp.Editor", "AirConsole Rewrite.CSharp.Editor.csproj", "{1AA44AFC-F430-8BE2-781A-679E3CF4157F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6FDC13A-5B85-BF57-113A-A7E30D6FA8DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6FDC13A-5B85-BF57-113A-A7E30D6FA8DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6FDC13A-5B85-BF57-113A-A7E30D6FA8DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6FDC13A-5B85-BF57-113A-A7E30D6FA8DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC7E0ED9-457A-A003-573D-4AE6875E73BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC7E0ED9-457A-A003-573D-4AE6875E73BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC7E0ED9-457A-A003-573D-4AE6875E73BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC7E0ED9-457A-A003-573D-4AE6875E73BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AA44AFC-F430-8BE2-781A-679E3CF4157F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AA44AFC-F430-8BE2-781A-679E3CF4157F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AA44AFC-F430-8BE2-781A-679E3CF4157F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AA44AFC-F430-8BE2-781A-679E3CF4157F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
